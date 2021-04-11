@@ -1,0 +1,10 @@
+{
+  "name": "ertigers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yihu-lv <1720427782@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
